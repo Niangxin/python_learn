@@ -1,0 +1,20 @@
+github
+用户名:Niangxin
+邮箱：18201732730@163.com
+密码：xiekuixin123
+
+cursor
+账户：
+密码：xiekuixin123
+
+python环境：
+1.环境位置：C:\anconda\envs
+2.环境安装：
+	2.1 anconda-> 管理员运行
+	2.2 conda env list
+	2.3 conda activate C:\anconda\envs\python_learn
+	2.4 pip install ***** -i https://pypi.tuna.tsinghua.edu.cn/simple
+	
+
+cusor 环境位置：
+ctrl+shift+p -> python:select interplater -> C:\anconda\envs\python_learn
